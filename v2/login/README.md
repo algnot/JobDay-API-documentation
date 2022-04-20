@@ -13,14 +13,16 @@
 ### RESPOND
 |Name          |Type         |Description             |
 |--------------|-------------|------------------------|
-|status        |string       |                        |
+|status        |string       |**ok**                  |
+|name          |string       |                        |
 |companyKey    |string       |                        |
 |email         |string       |                        |
 ### Example
 ```json
 {
   "status": "ok",
-  "email": "kattiyanee",
-  "key": "Petchco"
+  "name": "Thanawat Talabtong",
+  "email": "thanawat.k2000@gmail.com",
+  "key": "tongla"
 }
 ```
