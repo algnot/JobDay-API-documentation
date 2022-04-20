@@ -17,31 +17,33 @@
 ``` json
 {
   "user": {
-    "name": "ภาณุพงศ์ บุรกิจภาชัย",
-    "lineToken": "a3B1CMOYVXhhhxuKZDXHgWhNastbZdrZ7Ny62pFGvHi",
-    "position": "Developer"
+    "name": "Thanawat Talabtong",
+    "lineToken": "",
+    "position": "devoloper",
+    "timeIn": "09:00",
+    "timeOut": ""
   },
   "check_in": [
     {
-      "timeIn": "09:30",
-      "timeOut": "18:30",
-      "status": "OUT",
-      "date": "2021-05-31",
-      "location": ""
+      "status": "onTime",
+      "date": "2021-06-02",
+      "histTimeIn": "08:00:21",
+      "histTimeOut": "",
+      "location": "location"
     },
     {
-      "timeIn": "09:30",
-      "timeOut": "18:30",
-      "status": "OUT",
-      "date": "2021-05-31",
-      "location": ""
+      "status": "late",
+      "date": "2021-06-01",
+      "histTimeIn": "15:11:21",
+      "histTimeOut": "",
+      "location": "location"
     },
     {
-      "timeIn": "09:30",
-      "timeOut": "18:30",
-      "status": "OUT",
-      "date": "2021-05-31",
-      "location": ""
+      "status": "late",
+      "date": "2021-05-30",
+      "histTimeIn": "15:11:21",
+      "histTimeOut": "",
+      "location": "20:11:21"
     }
   ]
 }
