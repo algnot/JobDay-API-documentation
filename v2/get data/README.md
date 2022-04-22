@@ -21,7 +21,8 @@
     "lineToken": "",
     "position": "devoloper",
     "timeIn": "09:00",
-    "timeOut": ""
+    "timeOut": "",
+    "status" : "IN"
   },
   "check_in": [
     {
